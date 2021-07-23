@@ -6,11 +6,12 @@
  * Licensed under the MIT license - http://opensource.org/licenses/MIT
  *
  * Copyright (c) 2018 Daniel Eden
- * edited color 2021
+ * edited color 2021 11:40
  */
 .txbox{
   color:red;
   display: none;
+  position: inherit;
 }
 .animated {
   -webkit-animation-duration: 1s;
