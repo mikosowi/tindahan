@@ -11,8 +11,9 @@
 .txbox{
   color:red;
   display: none;
-  position: inherit;
+  position: absolute;
   cursor: pointer;
+
 }
 .animated {
   -webkit-animation-duration: 1s;
