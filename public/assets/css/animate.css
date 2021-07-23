@@ -7,7 +7,9 @@
  *
  * Copyright (c) 2018 Daniel Eden
  */
-
+.txbox{
+  color:red;
+}
 .animated {
   -webkit-animation-duration: 1s;
   animation-duration: 1s;
